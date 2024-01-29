@@ -1,0 +1,6 @@
+.idea/
+poo/out/production/poo/Main.class
+poo/out/production/poo/
+poo/out/production/*
+poo/out/*
+*.class
